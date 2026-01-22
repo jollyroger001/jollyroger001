@@ -26,9 +26,12 @@ I am a **Master's Graduate in Safety Engineering (LM-26)** with a multidisciplin
 ---
 
 ## 📁 Featured Projects
-### Digital Simulation & Design (Collaboration)
-* **My Contribution**: System logic design, balancing, and technical documentation.
-* **Key Focus**: Maintaining a clean Git workflow and ensuring system scalability.
+
+### 🕹️ RuneMasters - Game Design Project
+* **Link:** [github.com/jollyroger001/RuneMasters](https://github.com/jollyroger001/RuneMasters)
+* **Role:** Game Designer.
+* **Contribution:** Design of game systems and interactive digital simulations within a professional pipeline.
+* **Key Focus:** Technical documentation, logic balancing, and version control management.
 
 ### Cyber Security Portfolio
 * **Focus**: Automated vulnerability scanning and network monitoring.
