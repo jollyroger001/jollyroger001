@@ -27,11 +27,9 @@ I am a **Master's Graduate in Safety Engineering (LM-26)** with a multidisciplin
 
 ## 📁 Featured Projects
 
-## 📁 Featured Projects
-
-### 🔐 Cybersecurity Specialist Labs
+### 🔐 CybersecurityLAB
 * **Link:** [github.com/jollyroger001/CybersecurityLAB](https://github.com/jollyroger001/CybersecurityLAB)
-* **Focus:** Comprehensive lab collection including Malware Analysis, Network Security (MITM, ARP), and Penetration Testing.
+* **Focus:** Comprehensive lab collection including Malware Analysis, Network Security, and Penetration Testing.
 * **Tech:** Python, Kali Linux, Metasploit, Docker.
 
 ### 🕹️ RuneMasters - Game Design Project
