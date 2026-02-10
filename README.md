@@ -1,41 +1,32 @@
-# Hi, I'm Alessandro 🛡️🕹️
+# Hi, I'm Alessandro Paparo 🛡️⚙️
 
-**M.Sc. Graduate in Safety Engineering | Cyber Security Specialist | Game Designer**
+**M.Sc. Safety Engineer | Technical Operations & Cybersecurity Specialist | Game Systems Designer**
 
-I am a **Master's Graduate in Safety Engineering (LM-26)** with a multidisciplinary background. I bridge the analytical rigor of **Industrial Risk Assessment** with the technical challenges of **Cyber Security** and **Game Systems Design**.
+I am a **Master's Graduate in Safety Engineering (LM-26)**. I bridge the analytical rigor of **Industrial Risk Assessment (HSE)** with **Cybersecurity** and **Technical Operations**. My approach focuses on solving complex problems through automation, technical coordination, and risk-based logic.
 
 ---
 
-## 🔐 Cyber Security & IT Infrastructure
-* **Vulnerability & Risk Analysis**: Expertise in threat detection, log analysis, and OSINT.
-* **Industrial Safety**: Strong foundation in ISO 45001 and technical audits for infrastructure protection.
-* **Automation**: Developing security tools and networking scripts using **Python** and **Bash**.
+## 🛠️ Technical Expertise & Operations
+* **Industrial Safety & Ops**: Expert in **ISO 45001/9001** standards, technical audits, and infrastructure protection.
+* **Cybersecurity**: Focused on **Vulnerability Analysis**, threat detection, and network security.
+* **Technical Pipeline**: Proven experience in managing complex production pipelines and technical documentation (GDD/Technical Specs) using professional version control (**Git**).
 
-## 🕹️ Game Design & Digital Simulations
-*Professional background from Digital Bros Game Academy*.
-* **System Design**: Designing complex interactive systems and game mechanics.
-* **Technical Pipeline**: Experienced in professional development pipelines and technical documentation (GDD).
-* **Simulation & Logic**: Developing digital simulations for training purposes.
-* **Version Control**: Expert in **Git** versioning within multidisciplinary technical teams.
-
-## 🛠️ Technical Stack
-* **Languages**: Python, C, C++, C#, Bash.
-* **Tools**: Git/GitHub, Linux (Kali, Parrot), Trello, Miro, ANSYS.
-* **OS**: Linux, Windows, macOS.
+## 💻 Tech Stack
+* **Languages**: Python (Automation), C#, C/C++, Bash.
+* **Security & Ops**: Linux (Kali, Parrot), Docker, Networking, Risk Assessment Tools.
+* **Project Management**: Trello, Miro, Git/GitHub, MS Office (Advanced).
 
 ---
 
 ## 📁 Featured Projects
 
-### 🔐 CybersecurityLAB
-* **Link:** [github.com/jollyroger001/CybersecurityLAB](https://github.com/jollyroger001/CybersecurityLAB)
-* **Focus:** Comprehensive lab collection including Malware Analysis, Network Security, and Penetration Testing.
-* **Tech:** Python, Kali Linux, Metasploit, Docker.
+### 🔐 [CybersecurityLAB](https://github.com/jollyroger001/CybersecurityLAB)
+* **Focus:** Comprehensive lab collection including Malware Analysis and Penetration Testing.
+* **Tech:** Python, Kali Linux, Docker.
 
-### 🕹️ RuneMasters - Game Design Project
-* **Link:** [github.com/jollyroger001/RuneMasters](https://github.com/jollyroger001/RuneMasters)
-* **Role:** Game Designer.
-* **Contribution:** Design of game systems and technical documentation (GDD) within a professional pipeline.
+### ⚙️ [RuneMasters - Technical Systems Design](https://github.com/jollyroger001/RuneMasters)
+* **Role:** Lead Game Designer / Systems Architect.
+* **Contribution:** Design of complex interactive systems and professional technical documentation within a multidisciplinary pipeline.
 
 ---
 
